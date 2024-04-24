@@ -1,16 +1,39 @@
-# i_am_rich
 
-A new Flutter project.
+# I Am Rich App
+
+A simple Flutter application that displays a diamond image.
+
+## Description
+
+This Flutter application demonstrates a basic setup of a mobile app using Flutter's Material Design widgets. It includes:
+
+- A scaffold with a blue-grey background.
+- An app bar with a title "I am Rich" centered in white text.
+- A body containing a centered diamond image.
+
+## Screenshots
+
+![Capture](https://github.com/alecbideri/I-am-rich-app/assets/101627722/3f03db91-2b21-4a4f-92f8-4e6bee338441)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application, you'll need to have Flutter installed on your machine. Follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for instructions on how to set it up.
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/alecbideri/I-am-rich.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navigate to the project directory:
+
+   ```bash
+   cd I-am-rich
+   ```
+
+3. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
